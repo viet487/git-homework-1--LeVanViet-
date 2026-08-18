@@ -1,0 +1,3 @@
+Git is a version control system.
+Git helps track changes in files.
+GitHub hosts Git repositories online.
